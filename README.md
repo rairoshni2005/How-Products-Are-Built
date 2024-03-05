@@ -29,3 +29,11 @@ Stay tuned for regular updates as I continue to upload new projects and case stu
 Thank you for stopping by!
 
 Roshni Rai
+
+
+
+Here is the link to the video showcasing my case study on Myntra that I have completed.
+👇🏻👇🏻👇🏻
+
+
+https://youtu.be/83t0oBm6N3g
