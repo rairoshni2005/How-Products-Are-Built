@@ -8,11 +8,11 @@ This repository is dedicated to exploring the intricacies of product development
 
 #### Content:
 
-In this repository, you will find:
+In this repository, you will find :-
 
-1. **Project Files:** I will be uploading projects that showcase the entire product development lifecycle, from conception to deployment.
+1. Project Files: I will be uploading projects that showcase the entire product development lifecycle, from conception to deployment.
    
-2. **Case Studies:** Detailed analyses of real-world products, dissecting their development processes, successes, and challenges.
+2. Case Studies: Detailed analyses of real-world products, dissecting their development processes, successes, and challenges.
    
 #### Why this Repository?
 
